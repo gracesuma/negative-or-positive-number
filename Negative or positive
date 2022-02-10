@@ -1,0 +1,5 @@
+A=int(input enter the number))
+if(a<0):
+Print ("the number is positive")
+else:
+Print ("the number is negative")
